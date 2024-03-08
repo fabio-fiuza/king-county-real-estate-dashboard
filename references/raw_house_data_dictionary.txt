@@ -1,0 +1,21 @@
+id: identificação do imóvel na base de dados
+date: data em que o imóvel foi vendido
+price: preço em que o imóvel foi vendido (target)
+bedrooms: quantidade de quartos no imóvel
+bathrooms: quantidade de banheiros no imóvel
+sqft_living: quantidade em metros quadrados da casa
+sqft_lot: quantidade em metros quadrados do lote
+floors: quantidade de andares do imóvel
+waterfront: possui vista pra o mar ?
+view: de quantos lados o imóvel possui vista ?
+condition: nível de condições gerais do imóvel
+grade: nota geral com base no sistema de classificação da cidade
+sqft_above: quantidade em metros quadrados do imóvel com excessão do porão
+sqft_basement: quantidade em metros quadrados do porão
+yr_built: ano em que a casa foi construída
+yr_renovated: ano em que a casa foi reformada
+zipcode: código postal
+lat: coordenadas de latitude
+long: coordenadas de longitude
+sqft_living15: área do ímovel em 2015 (pode ter mudado em caso de reformas)
+sqft_lot15: área do lote em 2015 (pode ter mudado em caso de reformas)
