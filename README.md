@@ -20,7 +20,7 @@ This project followed an adapted version of the CRISP-DM (Cross-Industry Standar
 
     Performing necessary transformations and cleaning for the dashboard's visualizations.
 
-**4. Construção do Dashboard**
+**4. Dashboard Construction**
 
     Creating visualizations and dashboard components using Plotly and Dash libraries.
     Adding interactivity, filters, and other usability elements.
