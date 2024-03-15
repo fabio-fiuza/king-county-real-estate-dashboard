@@ -2,7 +2,7 @@
 
 This repository aims to create a dashboard that provides a detailed analysis of the best properties for resale in the King County region, USA, according to the required standard. Using various data analysis and visualization techniques, we explore property characteristics and market patterns to provide valuable insights to buyers.
 
-The data used was obtained from [kaggle](https://www.kaggle.com) and is available for download at this [link](https://www.kaggle.com/harlfoxem/housesalesprediction). This dataset contains information about house sales in King County, Washington and is used to power our analysis dashboard.
+The data used was obtained from [kaggle](https://www.kaggle.com) and is available for download at this [link](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction). This dataset contains information about house sales in King County, Washington and is used to power our analysis dashboard.
 
 **Methodology: CRISP-DM (adapted)**
 
