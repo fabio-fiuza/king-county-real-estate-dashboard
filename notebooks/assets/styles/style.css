@@ -1,0 +1,22 @@
+.header-container {
+    font-family: Arial;
+    color: white;
+    background-color: #2a2b30;
+    display: flex;
+    align-items: center;
+}
+
+.logo-container {
+    background-color: #2a2b30;
+    margin: 20px;
+}
+
+.title-container {
+    background-color: #2a2b30;
+}
+
+.tab-container {
+    margin-right: 0px;
+    margin-left: 190px;
+    align-items: center
+}
